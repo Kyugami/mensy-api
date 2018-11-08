@@ -1,0 +1,34 @@
+{
+  "mensy-faq":[
+    {
+      "id": 1,
+      "name": "Mensa itu apa ya",
+      "entity": "tentangmensy",
+      "score": 1
+    },
+    {
+      "id": 2,
+      "name": "Lokasi kantor Mensa di mana",
+      "entity": "alamatkantor",
+      "score": 1
+    },
+    {
+      "id": 3,
+      "name": "Mensa punya produk apa aja",
+      "entity": "informasiproduk",
+      "score": 1
+    },
+    {
+      "id": 4,
+      "name": "Website nya menjangan sakti apa ya",
+      "entity": "websitemensa",
+      "score": 1
+    },
+    {
+      "id": 5,
+      "name": "Ada di mana saja cabang nya",
+      "entity": "kantorcabang",
+      "score": 1
+    }
+  ]
+}
